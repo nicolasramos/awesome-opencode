@@ -53,15 +53,6 @@
 <br>
 
 <details>
-  <summary><b>rlm-opencode</b> <img src="https://badgen.net/github/stars/nicolasramos/rlm-opencode" height="14"/> - <i>RLM: persistent Python kernel, background subagents, context lake</i></summary>
-  <blockquote>
-    Recursive Language Model (RLM) for OpenCode: a persistent Python kernel (state survives across calls), native background subagents, and a context lake that keeps large data out of the LLM prompt. Based on the RLM paper (arXiv:2512.24601).
-    <br><br>
-    <a href="https://github.com/nicolasramos/rlm-opencode">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
   <summary><b>@bluelovers/opencode-arise</b> <img src="https://badgen.net/github/stars/bluelovers/opencode-arise" height="14"/> - <i>「⚔️ ARISE!」　A Solo Leveling themed orchestrator harness for OpenCode</i></summary>
   <blockquote>
     A lightweight, token-efficient orchestrator layer. Enables parallel background task execution in OpenCode. Launch AI agents to work simultaneously on exploration and research while continuing with other tasks. Allows specifying custom models for each_agent via configuration.
