@@ -1,0 +1,4 @@
+name: rlm-opencode
+repo: https://github.com/nicolasramos/rlm-opencode
+tagline: RLM for OpenCode
+description: Recursive Language Model (RLM) for OpenCode — persistent Python kernel, background subagents, and a context lake that keeps large data out of the LLM prompt. Based on the RLM paper (arXiv:2512.24601).
